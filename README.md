@@ -58,7 +58,7 @@ This enables the **complete decompilation of private Java applications**, even w
 ---
 
 ## 🧠 About
-This code was created during the author’s **early professional experience**, and therefore the **code quality is intentionally minimal**.  
+This code was created during the author’s **early professional experience**, and therefore the **code quality is quite low, IMO**.  
 Nevertheless, it is a valuable example for understanding:
 - the use of system commands in Java (`ProcessBuilder`);
 - integration with external tools (`jd-cli`);
